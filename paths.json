@@ -13,7 +13,7 @@
       "/content/dam/citisignal/images/products/:/images/products/"
     ],
     "includes": [
-      "/content/citisignal-designs",
+      "/content/citisignal-designs-eds",
       "/content/dam/citisignal/images/products/"
     ]
 }
